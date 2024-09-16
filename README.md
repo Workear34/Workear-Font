@@ -12,6 +12,9 @@
 
 （待补充）
 
+## 字体预览
+![](https://raw.githubusercontent.com/Workear34/Workear-Font/main/Preview.png)
+
 ## 字符支持情况
 
 ### 目前支持：
@@ -30,7 +33,6 @@
 
 ### 从源文件生成
 到 `Release` 或 `Beta` 目录下载 `.fcp` 文件，然后使用 FontCreator 打开导出即可。
-
 
 ## 目录说明
 
