@@ -29,7 +29,7 @@
 ## 下载
 目前版本： `2.000`
 ### 直接下载
-到 `Release` 目录下载 `.ttf` 文件。
+到 `Release` 或者 `Release` 目录下载 `.ttf` 文件。
 
 ### 从源文件生成
 到 `Release` 或 `Beta` 目录下载 `.fcp` 文件，然后使用 FontCreator 打开导出即可。
