@@ -29,7 +29,7 @@ Demo 版完成之后先是发布在了酷安，没想到获得了一些人的喜
 ## 下载
 目前版本： `2.000`
 ### 直接下载
-到 [Release](https://https://github.com/Workear34/Workear-Font/Releases) 或者 `Release\TTF` 目录下载 `.ttf` 文件，打开安装即可。
+到 [Release](https://github.com/Workear34/Workear-Font/Releases) 或者 `Release\TTF` 目录下载 `.ttf` 文件，打开安装即可。
 
 ### 从源文件生成
 到 `Source` 目录下载**对应版本**的 `.fcp` 工程文件，然后使用 FontCreator 打开导出即可。
