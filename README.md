@@ -10,7 +10,7 @@
 
 Demo 版完成之后先是发布在了酷安，没想到获得了一些人的喜爱，于是便决定公开并一直更新到现在。
 
-目前这款字体已经开源，且如果没有特殊情况，会不定期更新维护。
+目前这款字体已经开源，且会不定期更新维护。
 
 ## 字体预览
 ![](https://raw.githubusercontent.com/Workear34/Workear-Font/main/Docs/Preview.png)
@@ -27,9 +27,9 @@ Demo 版完成之后先是发布在了酷安，没想到获得了一些人的喜
 - ~~GB2132-80 (6763 个汉字)~~
 
 ## 下载
-目前版本： `2.000`
+目前版本： `2.10.75`
 ### 直接下载
-到 [Release](https://github.com/Workear34/Workear-Font/releases/latest) 或者 `Release\TTF` 目录下载 `.ttf` 文件，打开安装即可。
+到 [Release](https://github.com/Workear34/Workear-Font/releases/latest) 或者 `Release` 目录下载 `.ttf` 和 `.woff2`（适用于网页）文件，打开安装即可。
 
 ### 从源文件生成
 到 `Source` 目录下载**对应版本**的 `.fcp` 工程文件，然后使用 FontCreator 打开导出即可。
@@ -37,7 +37,9 @@ Demo 版完成之后先是发布在了酷安，没想到获得了一些人的喜
 有关对应版本的说明，请参阅本目录下的 `README.MD`
 
 ## 注意事项
-本人不是专业的字体设计师，且此字体完成度依然不高（字形粗细不均、轮廓不平滑...）
+本人不是专业的字体设计师，也没有学过专业的设计课程
+
+此字体完成度依然不高（字形粗细不均、轮廓不平滑...）
 
 如果你有优化及建议，欢迎提交 PR 或提出 Issue。
 
