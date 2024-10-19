@@ -15,19 +15,22 @@ Demo 版完成之后先是发布在了酷安，没想到获得了一些人的喜
 ## 字体预览
 ![](https://raw.githubusercontent.com/Workear34/Workear-Font/main/Docs/Preview.png)
 
-## 字符支持情况
+## 字体计划
 
 ### 目前支持：
 - 基本拉丁字母 (Basic Latin)
 - 拉丁字母补充-1 (Latin-1 Supplement)
+- 连字（ff, tt）
+- 时间冒号居中
 
 ### 计划支持：
-- [ ] 拉丁字母扩展-A (Latin Extended-A)
+- [ ] 拉丁字母扩展-A (Latin Extended-A) 接近完成
+- [ ] 多字重（Light, Regular, Bold）
 - ~~拉丁字母扩展-B (Latin Extended-B)~~
 - ~~GB2132-80 (6763 个汉字)~~
 
 ## 下载
-目前版本： `2.10.75`
+目前正式版本： `2.10.75`
 ### 直接下载
 到 [Release](https://github.com/Workear34/Workear-Font/releases/latest) 或者 `Release` 目录下载 `.ttf` 和 `.woff2`（适用于网页）文件，打开安装即可。
 
@@ -39,12 +42,12 @@ Demo 版完成之后先是发布在了酷安，没想到获得了一些人的喜
 ## 注意事项
 本人不是专业的字体设计师，也没有学过专业的设计课程
 
-此字体完成度依然不高（字形粗细不均、轮廓不平滑...）
+此字体完成度依然不高（字形粗细不均、比例失调、轮廓不平滑...）
 
 如果你有优化及建议，欢迎提交 PR 或提出 Issue。
 
 ## 许可
-本字体基于 SIL Open Font License 1.1 许可协议，请详见 `LICENSE` 文件。
+本字体基于 SIL Open Font License 1.1 许可协议，协议全文请详见 `LICENSE` 文件。
 
 你可以：
 - **自由使用、传播、分享，无需付费或告知作者（包括商业用途）**
@@ -52,6 +55,6 @@ Demo 版完成之后先是发布在了酷安，没想到获得了一些人的喜
 - 修改、改造、制作衍生版本
 
 你不能：
-- 使用保留名称 “Workear” “Workear Font” 发布衍生字体（若对字体进行**未修改**的编译或是转换工作则不受此限制）
+- 使用保留名称 “Workear” “Workear Font” 发布衍生字体（若对字体进行未修改的编译或是转换工作则不受此限制）
 - 单独售卖字体文件
 - 使用非 SIL Open Font License 授权协议发布字体
