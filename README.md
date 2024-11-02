@@ -24,9 +24,9 @@ Demo 版完成之后先是发布在了酷安，没想到获得了一些人的喜
 - 时间冒号居中
 
 ### 计划支持：
-- [ ] 拉丁字母扩展-A (Latin Extended-A) 接近完成
+- [x] 拉丁字母扩展-A (Latin Extended-A) 完成（测试版）
 - [ ] 多字重（Light, Regular, Bold）
-- ~~拉丁字母扩展-B (Latin Extended-B)~~
+- [ ] 拉丁字母扩展-B (Latin Extended-B)
 - ~~GB2132-80 (6763 个汉字)~~
 
 ## 下载
